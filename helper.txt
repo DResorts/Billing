@@ -1,2 +1,0 @@
-This is a helper text
-Added changes generating a pull req. 2
